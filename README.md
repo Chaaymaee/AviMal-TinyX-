@@ -1,1 +1,1 @@
-# AviMal-TinyX Dataset
+# Samples from AviMal-TinyX Dataset
